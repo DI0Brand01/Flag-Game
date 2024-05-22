@@ -1,0 +1,195 @@
+1#//#Afghanistan#//#countries_flags\af-flag.gif
+2#//#Albania#//#countries_flags\al-flag.gif
+3#//#Algeria#//#countries_flags\ag-flag.gif
+4#//#Andorra#//#countries_flags\an-flag.gif
+5#//#Angola#//#countries_flags\ao-flag.gif
+6#//#Antigua and Barbuda#//#countries_flags\ac-flag.gif
+7#//#Argentina#//#countries_flags\ar-flag.gif
+8#//#Armenia#//#countries_flags\am-flag.gif
+9#//#Australia#//#countries_flags\as-flag.gif
+10#//#Austria#//#countries_flags\au-flag.gif
+11#//#Azerbaijan#//#countries_flags\aj-flag.gif
+12#//#Bahamas#//#countries_flags\bf-flag.gif
+13#//#Bahrain#//#countries_flags\ba-flag.gif
+14#//#Bangladesh#//#countries_flags\bg-flag.gif
+15#//#Barbados#//#countries_flags\bb-flag.gif
+16#//#Belarus#//#countries_flags\bo-flag.gif
+17#//#Belgium#//#countries_flags\be-flag.gif
+18#//#Belize#//#countries_flags\bh-flag.gif
+19#//#Benin#//#countries_flags\bn-flag.gif
+20#//#Bhutan#//#countries_flags\bt-flag.gif
+21#//#Bolivia#//#countries_flags\bl-flag.gif
+22#//#Bosnia and Herzegovina#//#countries_flags\bk-flag.gif
+23#//#Botswana#//#countries_flags\bc-flag.gif
+24#//#Brazil#//#countries_flags\br-flag.gif
+25#//#Brunei #//#countries_flags\bx-flag.gif
+26#//#Bulgaria#//#countries_flags\bu-flag.gif
+27#//#Burkina Faso#//#countries_flags\uv-flag.gif
+28#//#Burundi#//#countries_flags\by-flag.gif
+29#//#Ivory Coast#//#countries_flags\iv-flag.gif
+30#//#Cabo Verde#//#countries_flags\cv-flag.gif
+31#//#Cambodia#//#countries_flags\cb-flag.gif
+32#//#Cameroon#//#countries_flags\cm-flag.gif
+33#//#Canada#//#countries_flags\ca-flag.gif
+34#//#CAR#//#countries_flags\ct-flag.gif
+35#//#Chad#//#countries_flags\cd-flag.gif
+36#//#Chile#//#countries_flags\ci-flag.gif
+37#//#China#//#countries_flags\ch-flag.gif
+38#//#Colombia#//#countries_flags\co-flag.gif
+39#//#Comoros#//#countries_flags\cn-flag.gif
+40#//#Congo#//#countries_flags\cg-flag.gif
+41#//#Costa Rica#//#countries_flags\cs-flag.gif
+42#//#Croatia#//#countries_flags\hr-flag.gif
+43#//#Cuba#//#countries_flags\cu-flag.gif
+44#//#Cyprus#//#countries_flags\cy-flag.gif
+45#//#Czechia#//#countries_flags\ez-flag.gif
+46#//#Denmark#//#countries_flags\da-flag.gif
+47#//#Djibouti#//#countries_flags\dj-flag.gif
+48#//#Dominica#//#countries_flags\do-flag.gif
+49#//#Dominican Republic#//#countries_flags\dr-flag.gif
+50#//#North Korea#//#countries_flags\kn-flag.gif
+51#//#DRC#//#countries_flags\congo-flag.gif
+52#//#Ecuador#//#countries_flags\ec-flag.gif
+53#//#Egypt#//#countries_flags\eg-flag.gif
+54#//#El Salvador#//#countries_flags\es-flag.gif
+55#//#Equatorial Guinea#//#countries_flags\ek-flag.gif
+56#//#Eritrea#//#countries_flags\er-flag.gif
+57#//#Estonia#//#countries_flags\en-flag.gif
+58#//#Eswatini#//#countries_flags\wz-flag.gif
+59#//#Ethiopia#//#countries_flags\et-flag.gif
+60#//#Fiji#//#countries_flags\fj-flag.gif
+61#//#Finland#//#countries_flags\fi-flag.gif
+62#//#France#//#countries_flags\fr-flag.gif
+63#//#Gabon#//#countries_flags\gb-flag.gif
+64#//#Gambia#//#countries_flags\ga-flag.gif
+65#//#Georgia#//#countries_flags\gg-flag.gif
+66#//#Germany#//#countries_flags\gm-flag.gif
+67#//#Ghana#//#countries_flags\gh-flag.gif
+68#//#Greece#//#countries_flags\gr-flag.gif
+69#//#Grenada#//#countries_flags\gj-flag.gif
+70#//#Guatemala#//#countries_flags\gt-flag.gif
+71#//#Guinea#//#countries_flags\gv-flag.gif
+72#//#Guinea-Bissau#//#countries_flags\pu-flag.gif
+73#//#Guyana#//#countries_flags\gy-flag.gif
+74#//#Haiti#//#countries_flags\ha-flag.gif
+75#//#Holy See#//#countries_flags\vt-flag.gif
+76#//#Honduras#//#countries_flags\ho-flag.gif
+77#//#Hungary#//#countries_flags\hu-flag.gif
+78#//#Iceland#//#countries_flags\ic-flag.gif
+79#//#India#//#countries_flags\in-flag.gif
+80#//#Indonesia#//#countries_flags\id-flag.gif
+81#//#Iran#//#countries_flags\ir-flag.gif
+82#//#Iraq#//#countries_flags\iz-flag.gif
+83#//#Ireland#//#countries_flags\ei-flag.gif
+84#//#shit#//#countries_flags\is-flag.gif
+85#//#Italy#//#countries_flags\it-flag.gif
+86#//#Jamaica#//#countries_flags\jm-flag.gif
+87#//#Japan#//#countries_flags\ja-flag.gif
+88#//#Jordan#//#countries_flags\jo-flag.gif
+89#//#Kazakhstan#//#countries_flags\kz-flag.gif
+90#//#Kenya#//#countries_flags\ke-flag.gif
+91#//#Kiribati#//#countries_flags\kr-flag.gif
+92#//#Kuwait#//#countries_flags\ku-flag.gif
+93#//#Kyrgyzstan#//#countries_flags\kg-flag.gif
+94#//#Laos#//#countries_flags\la-flag.gif
+95#//#Latvia#//#countries_flags\lg-flag.gif
+96#//#Lebanon#//#countries_flags\le-flag.gif
+97#//#Lesotho#//#countries_flags\lt-flag.gif
+98#//#Liberia#//#countries_flags\li-flag.gif
+99#//#Libya#//#countries_flags\ly-flag.gif
+100#//#Liechtenstein#//#countries_flags\ls-flag.gif
+101#//#Lithuania#//#countries_flags\lh-flag.gif
+102#//#Luxembourg#//#countries_flags\lu-flag.gif
+103#//#Madagascar#//#countries_flags\ma-flag.gif
+104#//#Malawi#//#countries_flags\mi-flag.gif
+105#//#Malaysia#//#countries_flags\my-flag.gif
+106#//#Maldives#//#countries_flags\mv-flag.gif
+107#//#Mali#//#countries_flags\ml-flag.gif
+108#//#Malta#//#countries_flags\mt-flag.gif
+109#//#Marshall Islands#//#countries_flags\rm-flag.gif
+110#//#Mauritania#//#countries_flags\mr-flag.gif
+111#//#Mauritius#//#countries_flags\mp-flag.gif
+112#//#Mexico#//#countries_flags\mx-flag.gif
+113#//#Micronesia#//#countries_flags\fm-flag.gif
+114#//#Moldova#//#countries_flags\md-flag.gif
+115#//#Monaco#//#countries_flags\mn-flag.gif
+116#//#Mongolia#//#countries_flags\mg-flag.gif
+117#//#Montenegro#//#countries_flags\mj-flag.gif
+118#//#Morocco#//#countries_flags\mo-flag.gif
+119#//#Mozambique#//#countries_flags\mz-flag.gif
+120#//#Myanmar#//#countries_flags\bm-flag.gif
+121#//#Namibia#//#countries_flags\wa-flag.gif
+122#//#Nauru#//#countries_flags\nr-flag.gif
+123#//#Nepal#//#countries_flags\np-flag.gif
+124#//#Netherlands#//#countries_flags\nl-flag.gif
+125#//#New Zealand#//#countries_flags\nz-flag.gif
+126#//#Nicaragua#//#countries_flags\nu-flag.gif
+127#//#Niger#//#countries_flags\ng-flag.gif
+128#//#Nigeria#//#countries_flags\ni-flag.gif
+129#//#North Macedonia#//#countries_flags\mk-flag.gif
+130#//#Norway#//#countries_flags\no-flag.gif
+131#//#Oman#//#countries_flags\mu-flag.gif
+132#//#Pakistan#//#countries_flags\pk-flag.gif
+133#//#Palau#//#countries_flags\ps-flag.gif
+134#//#Panama#//#countries_flags\pm-flag.gif
+135#//#Papua New Guinea#//#countries_flags\pp-flag.gif
+136#//#Paraguay#//#countries_flags\pa-flag.gif
+137#//#Peru#//#countries_flags\pe-flag.gif
+138#//#Philippines#//#countries_flags\rp-flag.gif
+139#//#Poland#//#countries_flags\pl-flag.gif
+140#//#Portugal#//#countries_flags\po-flag.gif
+141#//#Qatar#//#countries_flags\qa-flag.gif
+142#//#Romania#//#countries_flags\ro-flag.gif
+143#//#Russia#//#countries_flags\rs-flag.gif
+144#//#Rwanda#//#countries_flags\rw-flag.gif
+145#//#Saint Kitts and Nevis#//#countries_flags\sc-flag.gif
+146#//#Saint Lucia#//#countries_flags\st-flag.gif
+147#//#Samoa#//#countries_flags\ws-flag.gif
+148#//#San Marino#//#countries_flags\sm-flag.gif
+149#//#Sao Tome and Principe#//#countries_flags\tp-flag.gif
+150#//#Saudi Arabia#//#countries_flags\sa-flag.gif
+151#//#Senegal#//#countries_flags\sg-flag.gif
+152#//#Serbia#//#countries_flags\ri-flag.gif
+153#//#Seychelles#//#countries_flags\se-flag.gif
+154#//#Sierra Leone#//#countries_flags\sl-flag.gif
+155#//#Singapore#//#countries_flags\sn-flag.gif
+156#//#Slovakia#//#countries_flags\lo-flag.gif
+157#//#Slovenia#//#countries_flags\si-flag.gif
+158#//#Solomon Islands#//#countries_flags\bp-flag.gif
+159#//#Somalia#//#countries_flags\so-flag.gif
+160#//#South Africa#//#countries_flags\sf-flag.gif
+161#//#South Korea#//#countries_flags\ks-flag.gif
+162#//#South Sudan#//#countries_flags\od-flag.gif
+163#//#Spain#//#countries_flags\sp-flag.gif
+164#//#Sri Lanka#//#countries_flags\ce-flag.gif
+165#//#St. Vincent Grenadines#//#countries_flags\vc-flag.gif
+166#//#Palestine#//#countries_flags\palestine-flag.gif
+167#//#Sudan#//#countries_flags\su-flag.gif
+168#//#Suriname#//#countries_flags\ns-flag.gif
+169#//#Sweden#//#countries_flags\sw-flag.gif
+170#//#Switzerland#//#countries_flags\sz-flag.gif
+171#//#Syria#//#countries_flags\sy-flag.gif
+172#//#Tajikistan#//#countries_flags\ti-flag.gif
+173#//#Tanzania#//#countries_flags\tz-flag.gif
+174#//#Thailand#//#countries_flags\th-flag.gif
+175#//#Timor-Leste#//#countries_flags\tt-flag.gif
+176#//#Togo#//#countries_flags\to-flag.gif
+177#//#Tonga#//#countries_flags\tn-flag.gif
+178#//#Trinidad and Tobago#//#countries_flags\td-flag.gif
+179#//#Tunisia#//#countries_flags\ts-flag.gif
+180#//#Turkey#//#countries_flags\tu-flag.gif
+181#//#Turkmenistan#//#countries_flags\tx-flag.gif
+182#//#Tuvalu#//#countries_flags\tv-flag.gif
+183#//#U.A.E.#//#countries_flags\ae-flag.gif
+184#//#U.K.#//#countries_flags\uk-flag.gif
+185#//#U.S.#//#countries_flags\us-flag.gif
+186#//#Uganda#//#countries_flags\ug-flag.gif
+187#//#Ukraine#//#countries_flags\up-flag.gif
+188#//#Uruguay#//#countries_flags\uy-flag.gif
+189#//#Uzbekistan#//#countries_flags\uz-flag.gif
+190#//#Vanuatu#//#countries_flags\nh-flag.gif
+191#//#Venezuela#//#countries_flags\ve-flag.gif
+192#//#Vietnam#//#countries_flags\vm-flag.gif
+193#//#Yemen#//#countries_flags\ym-flag.gif
+194#//#Zambia#//#countries_flags\za-flag.gif
+195#//#Zimbabwe#//#countries_flags\zi-flag.gif
